@@ -8,6 +8,7 @@ Durante la seconda fase invece le studentesse e gli studenti avranno la possibil
 Matteo Subet<br>
 matteo.subet@supsi.ch
 
+
 ### Programma
 Il programma della settimana si articola in 2 diversi fasi: familiarizzare con i linguaggi HTML, CSS e Javascript e creare un progetto personale.<br>
 Durante la prima fase, le studentesse e gli studenti potranno comprendere meglio la teoria tecnica dei linguaggi proposti e metterli in pratica con micro-attività pratiche.<br>
