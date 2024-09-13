@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cattivone</title>
+    <style>
+        body {
+            background-color: black;
+            overflow: hidden;
+            margin: 0;
+        }
+        video {
+            width: 100vw;
+            height: 100vh;
+            object-fit: cover;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <video id="video">
+        <source src="./Progetto intermedio/assets/img/gattino.mp4" type="video/mp4">
+        <source src="./Progetto intermedio/assets/img/gattino.ogg" type="video/ogg">
+        Your browser does not support the video tag.
+    </video>
+</body>
+<script>
+    let vid = document.getElementById("video");
+    
+    setTimeout(() =>{
+        vid.play();
+    }, 500);
+</script>
+</html>
